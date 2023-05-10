@@ -1,2 +1,5 @@
 # build-tests-tools-binary
-This is a repository to store a binary program to generate a MANIFEST.txt
+
+The idea of this repository is can use the release to create a MANIFEST into a bazel build. You can see the bazel test repository here:
+
+- [Build Test](https://github.com/RobertoRojas/build-tests)
